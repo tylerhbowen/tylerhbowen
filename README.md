@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Tyler Bowen
+
+I'm a product manager with 10+ years in tech and a passion for building products users love. My background spans 0→1 product development, customer research, GTM strategy, and leading cross-functional teams. 
+
+This GitHub showcases:
+- Personal projects where I’ve explored enablers for my day-to-day product pursuits
+- Documentation and examples of how I approach product thinking
+- Artifacts for my product directory
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/tylerhbowen/)  
 
 <!--
 **tylerhbowen/tylerhbowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
